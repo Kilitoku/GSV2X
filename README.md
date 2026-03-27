@@ -60,8 +60,8 @@ If you find this work useful, please consider citing:
 
 ```bibtex
 @inproceedings{gsv2x_cvpr2026,
-  title     = {GSV2X},
-  author    = {TODO},
+  title     = {GSV2X: Geometry-Aware Uncertainty Modeling and Orthogonal Fusion for Robust Roadside Perception},
+  author    = {Jianqiang Xu, Gensheng Pei, Huafeng Liu, Yazhou Yao},
   booktitle = {Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)},
   year      = {2026}
 }
