@@ -1,4 +1,4 @@
-# GSV2X
+# GSV2X: Geometry-Aware Uncertainty Modeling and Orthogonal Fusion for Robust Roadside Perception
 
 <p align="center">
   <strong>Accepted to CVPR 2026</strong>
